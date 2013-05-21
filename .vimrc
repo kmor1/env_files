@@ -1,0 +1,10 @@
+set backspace=1
+set nobomb
+set autoindent
+set nu
+set list
+set shiftwidth=4
+set expandtab
+set nocompatible
+set wildmode=list:longest
+syntax on
