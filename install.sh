@@ -5,5 +5,5 @@ sudo yum install \
 git \
 vim-enhanced \
 
-sudo yum --enablerepo=remi install  php-cli \
+sudo yum --enablerepo=remi install  php \
 
